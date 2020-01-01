@@ -1,7 +1,7 @@
 #! /bin/bash  -xue
 
-boxFile='centos7-develop.box'
-boxName='centos7-develop'
+boxFile='centos8-develop.box'
+boxName='centos8-develop'
 
 # Account Name of Vagrant Cloud.
 vcUser='takahiro-itou'
