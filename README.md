@@ -1,4 +1,4 @@
-# vagrant-box-ubuntu-develop
+# vagrant-box-centos8-develop
 
 基本的な開発環境をインストールした CentOS 8
 
